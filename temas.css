@@ -20,6 +20,23 @@ font-family: fantasy;
 color: rgb(79, 22, 105);
 }
 
+.titulotec{
+
+width: 100%;
+height: 90px;
+background-color: violet;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: blue;
+
+
+}
+
+
+
+
+
+
 .tecnologia{
     width: 100%;
     height: 700px;
