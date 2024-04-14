@@ -103,10 +103,10 @@ color: purple;
 .titulosoc{
     width: 100%;
     height: 90px;
-    background-color: rgb(166, 228, 248);
+    background-color: fuchsia;
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(248, 116, 248);
+    color: dodgerblue;
 
 
 
@@ -117,7 +117,7 @@ color: purple;
 .sociales{
     width: 100%;
     height: 3000px;
-    background-color: rgb(248, 116, 248);
+    background-color: fuchsia;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 
