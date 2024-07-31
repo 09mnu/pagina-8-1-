@@ -19,6 +19,20 @@ body{
 .titulo{
 font-size: 50px;
 text-align: center;
+color: cornflowerblue;
+}
+.titulotec{
+
+    font-size: 84px;
+    text-align: center;
+    color: rgb(232, 100, 237);
+
+}
+.tituloinicio{
+    font-size: 200px;
+    text-align: center;
+    color: rgb(237, 100, 152);
+
 
 }
 
@@ -41,4 +55,9 @@ text-align: center;
     width: 800px;
     background-image: url("foto3.jfif");
 }
-
+.img1{
+    height: 620px;
+    width: 800px;
+    background-image: url("circuitos-electricos.webp");
+    background-repeat: no-repeat;
+}
