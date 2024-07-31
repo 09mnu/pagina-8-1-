@@ -23,17 +23,16 @@ color: cornflowerblue;
 }
 .titulotec{
 
-    font-size: 84px;
+    font-size: 100px;
     text-align: center;
-    color: rgb(232, 100, 237);
+    color: rgb(63, 90, 240);
 
 }
 .tituloinicio{
-    font-size: 200px;
+    font-size: 163px;
     text-align: center;
-    color: rgb(237, 100, 152);
-
-
+    color: rgb(237, 100, 130);
+    
 }
 
 .foto1{
@@ -56,8 +55,9 @@ color: cornflowerblue;
     background-image: url("foto3.jfif");
 }
 .img1{
-    height: 620px;
-    width: 800px;
+    height: 289px;
+    width: 571px;
     background-image: url("circuitos-electricos.webp");
     background-repeat: no-repeat;
+    float: left;
 }
