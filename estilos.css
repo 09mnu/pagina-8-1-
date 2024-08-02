@@ -63,11 +63,34 @@ color: cornflowerblue;
 }
 
 .img2{
-    height: 289px;
-    width: 571px;
+    height: 213px;
+    width: 221px;
     background-image: url("img2ingles.jfif");
     background-repeat: no-repeat;
-    float: inline-end;
+    float: revert;
+
+
+
+}
+.img3{
+
+
+    height: 200px;
+    width: 300px;
+    background-image: url("imgeningles.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+}
+
+.img4{
+    height: 200px;
+    width: 300px;
+    background-image: url("imaingles.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+
 
 
 
