@@ -62,6 +62,15 @@ color: cornflowerblue;
     float: left;
 }
 
+.img2{
+    height: 289px;
+    width: 571px;
+    background-image: url("img2ingles.jfif");
+    background-repeat: no-repeat;
+    float: inline-end;
 
+
+
+}
 
 
