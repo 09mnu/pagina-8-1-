@@ -61,3 +61,12 @@ color: cornflowerblue;
     background-repeat: no-repeat;
     float: left;
 }
+
+
+
+
+.img1{
+  height: 300px;
+  width: 300px;
+  background-image: url("nose\ 1.jpg");
+}
