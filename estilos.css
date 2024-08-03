@@ -191,3 +191,10 @@ color: cornflowerblue;
     float: revert;
 
 }
+.img12{
+    height: 297px;
+    width: 364px;
+    background-image: url("Imagen8.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+}
