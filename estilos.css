@@ -123,4 +123,14 @@ color: cornflowerblue;
     text-align: center;
     color: darkblue;
 }
+.img5{
 
+    height: 213px;
+    width: 221px;
+    background-image: url("Imagen1.png");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+}
