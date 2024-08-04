@@ -270,3 +270,35 @@ color: cornflowerblue;
 
 
 }
+
+.img21{
+
+    height: 189px;
+    width: 364px;
+    background-image: url("Imagen17.jpg");
+    background-repeat: no-repeat;
+    float: revert;  
+
+
+
+}
+
+.img22{
+
+    height: 189px;
+    width: 364px;
+    background-image: url("Imagen18.jpg");
+    background-repeat: no-repeat;
+    float: revert; 
+
+
+}
+
+.img23{
+    height: 296px;
+    width: 364px;
+    background-image: url("Imagen19.jpg");
+    background-repeat: no-repeat;
+    float: revert; 
+
+}
