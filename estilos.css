@@ -234,3 +234,11 @@ color: cornflowerblue;
     float: revert;
 
 }
+.img17{
+    height: 350px;
+    width: 364px;
+    background-image: url("Imagen13.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+  
+}
