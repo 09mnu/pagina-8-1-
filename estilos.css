@@ -332,3 +332,11 @@ color: cornflowerblue;
 
 
 }
+.img27{
+    height: 296px;
+    width: 364px;
+    background-image: url("Imagen23.jpg");
+    background-repeat: no-repeat;
+    float: revert; 
+
+}
