@@ -157,9 +157,29 @@ color: cornflowerblue;
 .mmm3{
 
 
-    height: 620px;
-    width: 660px;
+    height: 1290px;
+    width: 1286px;
     background-image: url("manuela.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+}
+.sss3{
+
+
+    height: 1290px;
+    width: 1286px;
+    background-image: url("sara.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+}
+.maa3{
+
+
+    height: 1290px;
+    width: 1286px;
+    background-image: url("mariana.jfif");
     background-repeat: no-repeat;
     float: revert;
 
