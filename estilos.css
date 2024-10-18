@@ -135,12 +135,31 @@ color: cornflowerblue;
 
 
 }
+
+.imgai{
+    height: 1300px;
+    width: 1300px;
+    background-image: url("inicio.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+}
 .img3{
 
 
     height: 200px;
     width: 300px;
     background-image: url("imgeningles.jfif");
+    background-repeat: no-repeat;
+    float: revert;
+
+}
+.mmm3{
+
+
+    height: 620px;
+    width: 660px;
+    background-image: url("manuela.jfif");
     background-repeat: no-repeat;
     float: revert;
 
