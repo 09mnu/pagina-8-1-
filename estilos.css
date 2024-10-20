@@ -191,13 +191,13 @@ background-image: url("1.PNG");
 background-repeat: no-repeat;
 float: revert;}
 
-.b{height: 620px;
-width: 620px;
+.b{height: 400px;
+width: 500px;
 background-image: url("2.PNG");
 background-repeat: no-repeat;
 float: revert;}
 
-.c{height: 620px;
+.c{height: 105px;
 width: 620px;
 background-image: url("3.PNG");
 background-repeat: no-repeat;
