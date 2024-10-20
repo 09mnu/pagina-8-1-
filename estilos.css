@@ -197,6 +197,79 @@ color: cornflowerblue;
 
 
 }
+.atraco{
+    height: 200px;
+    width: 300px;
+    background-image: url("atracoing.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
+.tratojusto{
+    height: 200px;
+    width: 300px;
+    background-image: url("tratojusto.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
+.escuchar{
+    height: 200px;
+    width: 300px;
+    background-image: url("escuchar.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
+.hablar{
+    height: 200px;
+    width: 300px;
+    background-image: url("hablar.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
+.genero{
+    height: 550px;
+    width: 800px;
+    background-image: url("genero.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
+
+.romper{
+    height: 500px;
+    width: 800px;
+    background-image: url("romper.jpg");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+
+
+}
 .imgmapa{
 
     height: 750px;
