@@ -99,9 +99,9 @@ color: cornflowerblue;
 }
 
 .foto1{
-    height: 620px;
-    width: 660px;
-    background-image: url("foto1.jfif");
+    height: 660px;
+    width: 494px;
+    background-image: url("foto1.jpg");
     float: initial;
 }
 
@@ -167,9 +167,9 @@ color: cornflowerblue;
 .sss3{
 
 
-    height: 1290px;
-    width: 1286px;
-    background-image: url("sara.jfif");
+    height: 620px;
+    width: 620px;
+    background-image: url("saragusto.jpg");
     background-repeat: no-repeat;
     float: revert;
 
