@@ -334,6 +334,27 @@ float: revert;}
 
 
 }
+.suma{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(175, 21, 21)
+
+}
+.sumai{
+
+    height: 239px;
+    width: 316px;
+    background-image: url("sumai.jpg");
+    background-repeat: no-repeat;
+    float: revert; 
+}
+.resta{
+
+    font-size: 70px;
+    text-align: center;
+    color: rgb(116, 175, 21)
+
+}
 .videotec{
     font-size: 70px;
     text-align: center;
