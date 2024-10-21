@@ -400,7 +400,7 @@ float: revert;}
     text-align: center;
     color: rgb(209, 102, 177)}
 .promedioi{height: 209px;
-    height: 209px;
+    height: 309px;
     width: 696px;
     background-image: url("promedio.png");
     background-repeat: no-repeat;
@@ -417,6 +417,21 @@ float: revert;}
     background-image: url("control.jfif");
     background-repeat: no-repeat;
     float: revert;}
+    .pegadoespecial{
+
+        font-size: 70px;
+        text-align: center;
+        color: rgb(88, 12, 12)}
+
+    .pegadoespeciali{
+
+        height: 309px;
+        width: 696px;
+        background-image: url("Pegado-Especial.webp");
+        background-repeat: no-repeat;
+        float: revert;
+
+    }
 
 
 
