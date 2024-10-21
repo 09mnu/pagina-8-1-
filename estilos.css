@@ -432,6 +432,21 @@ float: revert;}
         float: revert;
 
     }
+    .eliminar{
+        font-size: 70px;
+        text-align: center;
+        color: rgb(12, 88, 50)}
+
+
+    .eliminari{
+
+        height: 359px;
+        width: 696px;
+        background-image: url("eliminar.png");
+        background-repeat: no-repeat;
+        float: revert;
+
+    }
 
 
 
