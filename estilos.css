@@ -355,6 +355,15 @@ float: revert;}
     color: rgb(116, 175, 21)
 
 }
+
+.restai{
+    height: 309px;
+    width: 696px;
+    background-image: url("resta.webp");
+    background-repeat: no-repeat;
+    float: revert; 
+
+}
 .videotec{
     font-size: 70px;
     text-align: center;
