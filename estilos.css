@@ -447,8 +447,26 @@ float: revert;}
         float: revert;
 
     }
+    .buscar{
+
+        font-size: 70px;
+        text-align: center;
+        color: rgb(4, 0, 255)
 
 
+
+    }
+
+.buscari{
+    height: 359px;
+    width: 696px;
+    background-image: url("buscar.png");
+    background-repeat: no-repeat;
+    float: revert;
+
+
+
+}
 
 
 .videotec{
